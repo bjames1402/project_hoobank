@@ -1,2 +1,2 @@
-# HooBank - Modern UI/UX website using React.js & Tailwind CSS
+# HooBank - Site web moderne UI/UX utilisant React.js & Tailwind CSS
 
